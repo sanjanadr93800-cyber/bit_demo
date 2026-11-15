@@ -96,6 +96,4 @@ http://localhost:5173
 
 The main objective of this project is to create an attractive and interactive image gallery using React.js and CSS. It demonstrates component-based development, image handling, reusable data structures, and modern UI design.
 
-## 👩‍💻 Author
 
-Developed as a React.js practice project.
