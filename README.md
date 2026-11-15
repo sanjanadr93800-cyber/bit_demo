@@ -1,3 +1,4 @@
+
 # ChromaGrid – Beautiful Image Gallery
 
 ## 📌 Project Description
@@ -29,7 +30,6 @@ The gallery includes different categories such as cats, beaches, nature, birds, 
 
 ```text
 bit_demo/
-│
 ├── public/
 │   ├── beach.jpg
 │   ├── Beautiful.jpg
@@ -42,7 +42,6 @@ bit_demo/
 │   ├── component/
 │   │   ├── ChromaGrid.jsx
 │   │   └── ChromaGrid.css
-│   │
 │   ├── App.jsx
 │   ├── App.css
 │   ├── index.css
@@ -54,37 +53,35 @@ bit_demo/
 
 ## 🚀 Installation and Setup
 
-**Step 1: Clone the repository**
+### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/sanjanadr93800-cyber/bit_demo.git
 ```
 
-**Step 2: Open the project folder**
+### Step 2: Open the project folder
 
 ```bash
 cd bit_demo
 ```
 
-**Step 3: Install dependencies**
+### Step 3: Install dependencies
 
 ```bash
 npm install
 ```
 
-**Step 4: Start the development server**
+### Step 4: Start the development server
 
 ```bash
 npm run dev
 ```
 
-**Step 5: Open the application**
+### Step 5: Open the application
 
 Open the local URL displayed in your terminal, usually:
 
-```text
 http://localhost:5173
-```
 
 ## 🖼️ Image Categories
 
